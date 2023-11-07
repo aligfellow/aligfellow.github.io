@@ -1,11 +1,8 @@
-title: Ali G
-logo: "/assets/images/headshot.png"
-description: "PhD Computational Chemistry | St Andrews | Professor Michael B\"uhl"
 theme: jekyll-theme-minimal
 
 author:
  name      : "Ali Goodfellow"
- avatar    : "/assets/images/headshot.png"
+ avatar    : "/images/headshot.png"
  bio       : "PhD Computational Chemistry | St Andrews | Professor Michael B\"uhl"
  location  : "St Andrews, Scotland, UK"
  email     :
@@ -14,6 +11,28 @@ author:
  twitter   : "ali_goodfellow"
  orcid     : "https://orcid.org/0000-0002-0064-5007"
 
+# Site Settings
+locale                   : "en-UK"
+title                    : "Ali Goodfellow"
+title_separator          : "-"
+name                     : &name "Ali Goodfellow"
+description              : &description "Ali Goodfellow"
+url                      : https://aligfellow.github.io 
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "aligfellow/aligfellow.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
+
 include:
  - _pages
- - files
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false

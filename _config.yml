@@ -1,16 +1,5 @@
 theme: jekyll-theme-minimal
 
-author:
- name      : "Ali Goodfellow"
- avatar    : "/images/headshot.png"
- bio       : "PhD Computational Chemistry | St Andrews | Professor Michael B\"uhl"
- location  : "St Andrews, Scotland, UK"
- email     :
- github    : "aligfellow"
- linkedin  : "ali-goodfellow-11b531283"
- twitter   : "ali_goodfellow"
- orcid     : "https://orcid.org/0000-0002-0064-5007"
-
 # Site Settings
 locale                   : "en-UK"
 title                    : "Ali Goodfellow"
@@ -24,6 +13,17 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
+
+author:
+ name      : "Ali Goodfellow"
+ avatar    : "/images/headshot.png"
+ bio       : "PhD Computational Chemistry | St Andrews | Professor Michael B\"uhl"
+ location  : "St Andrews, Scotland, UK"
+ email     :
+ github    : "aligfellow"
+ linkedin  : "ali-goodfellow-11b531283"
+ twitter   : "ali_goodfellow"
+ orcid     : "https://orcid.org/0000-0002-0064-5007"
 
 include:
  - _pages

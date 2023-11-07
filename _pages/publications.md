@@ -1,5 +1,10 @@
-# Publications
-List of publications
+--------------------------
+title: 'Publications'
+permalink: '/publications/'
+author_profile: True
+--------------------------
+
+List of publications:
 
 4) [Manganese catalysed enantioselective hydrogenation of *in situ*-synthesised imines: efficient asymmetric synthesis of amino-indane derivatives](https://doi.org/10.1039/d3gc00399j)
 > Conor L. Oates, Alister S. Goodfellow, Michael Buehl, Matthew L. Clarke, *Green Chemistry*, 2023, **25**, 3864-3868.

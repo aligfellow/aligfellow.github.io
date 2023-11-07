@@ -2,3 +2,8 @@ title: Ali G
 logo: /assets/images/headshot.png
 description: PhD Computational Chemistry | St Andrews | Professor Michael B\"uhl 
 theme: jekyll-theme-minimal
+
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+twitter:
+  username               :@ali_goodfellow
+og_image                 :  

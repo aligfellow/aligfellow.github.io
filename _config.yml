@@ -14,4 +14,6 @@ author:
  twitter   : "ali_goodfellow"
  orcid     : "https://orcid.org/0000-0002-0064-5007"
 
- 
+include:
+ - _pages
+ - files
